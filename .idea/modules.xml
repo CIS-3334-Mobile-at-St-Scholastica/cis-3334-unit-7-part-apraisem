@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://D:\tgibbons\Documents on Storage Drive\CIS 3334 Android Development\HeartRateTracker-Part7Start\HeartRateTracker-AsgStart.iml" filepath="D:\tgibbons\Documents on Storage Drive\CIS 3334 Android Development\HeartRateTracker-Part7Start\HeartRateTracker-AsgStart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HeartRateTracker-Part7Start.iml" filepath="$PROJECT_DIR$/HeartRateTracker-Part7Start.iml" />
+      <module fileurl="file://C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-7-part-apraisem\HeartRateTracker-Part7Start.iml" filepath="C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-7-part-apraisem\HeartRateTracker-Part7Start.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-7-part-apraisem\app\app.iml" filepath="C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-7-part-apraisem\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cis-3334-unit-7-part-apraisem.iml" filepath="$PROJECT_DIR$/cis-3334-unit-7-part-apraisem.iml" />
     </modules>
   </component>
 </project>
